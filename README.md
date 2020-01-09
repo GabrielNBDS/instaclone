@@ -14,6 +14,7 @@ Exemplo do funcionamento
 
 1. Node
 - Entre na pasta "node"
+- Rode ```yarn install```
   - Entre na pasta "src"
   - Mude a conexão do mongoose para algum servidor mongo( local ou um cluster no mongodb atlas ). O servidor padrão será desligado.[![Image from Gyazo](https://i.gyazo.com/f4cc16d3f6fbf56d0f887d68be71fc45.png)](https://gyazo.com/f4cc16d3f6fbf56d0f887d68be71fc45)
   - Volte para "node"
@@ -21,6 +22,7 @@ Exemplo do funcionamento
 
 2. React
 - Entre na pasta "reactclient"
+- Rode ```yarn install```
 - Rode ```yarn start```
 - No seu navegador, insira a url: ```localhost:3000```
 
