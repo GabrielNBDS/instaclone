@@ -5,8 +5,7 @@
 ---
 
 Exemplo do funcionamento
-[![Image from Gyazo](https://i.gyazo.com/d1ac16b09351cb9db39bae289365fc30.gif)](https://gyazo.com/d1ac16b09351cb9db39bae289365fc30)
-
+<img src="./examplegif.gif"/>
 ---
 
 ## Como rodar no seu computador:
@@ -16,7 +15,7 @@ Exemplo do funcionamento
 - Entre na pasta "node"
 - Rode ```yarn install```
   - Entre na pasta "src"
-  - Mude a conexão do mongoose para algum servidor mongo( local ou um cluster no mongodb atlas ). O servidor padrão será desligado.[![Image from Gyazo](https://i.gyazo.com/f4cc16d3f6fbf56d0f887d68be71fc45.png)](https://gyazo.com/f4cc16d3f6fbf56d0f887d68be71fc45)
+  - Mude a conexão do mongoose para algum servidor mongo( local ou um cluster no mongodb atlas ). O servidor padrão será desligado.<img src="mongooseconnectimg.png"/>
   - Volte para "node"
 - Rode ```yarn dev``` e o servidor será iniciado
 
